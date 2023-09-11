@@ -1,0 +1,100 @@
+ <!DOCTYPE html>
+
+<meta name="viewport" content="width-device-width, initial-scale-1.0"> <title>Document</title>
+
+<th colspan="2">HTML task</th>
+
+<th>Task Number</th>
+
+<th>Link</th>
+
+<tr>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<td>Taskl</td>
+
+<td><a href="./Task1.html">Link</a></td>
+
+</tr>
+
+I
+
+<tr>
+
+<h1>Index page</h1>
+
+<table border="1">
+
+<tr>
+
+</tr>
+
+</tr>
+
+</head>
+
+<center>
+
+<body>
+ <title>Document</title>
+
+<body>
+
+<center>
+
+<h1>Index page</h1>
+
+<table border="1">
+
+<th colspan="2">HTML task</th>
+
+</tr>
+
+<th>Task Number</th>
+
+<th>Link</th>
+
+<td>Task1</td>
+
+<td><a href="./Task1.html">Link</a></td>
+
+<td>Task2</td>
+
+<td><a href="./Task2.html">Link</a></td>
+
+<td>Task3</td>
+
+<td><a href="./Task3.html">Link3</a></td>
+
+</tr>
+
+<tr>
+
+</tr>
+
+</tr>
+
+<tr>
+
+</table>
+
+/head>
+
+<tr>
+
+<tr>
+
+</tr>
+
+<tr>
+
+</center>
+
+</body>
+
+</html>
